@@ -1,4 +1,4 @@
-# Proxy services
+# AWS file proxy services
 
 This project is about creating services that get and upload objects in AWS.
 
